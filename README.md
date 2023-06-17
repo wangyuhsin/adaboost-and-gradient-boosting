@@ -132,4 +132,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The initial codebase and project structure is adapted from the MSDS 630 course materials provided by the University of San Francisco (USFCA-MSDS). Special thanks to the course instructors for the inspiration.
+The initial codebase and project structure are adapted from the MSDS 630 course materials provided by the University of San Francisco (USFCA-MSDS). Special thanks to the course instructors for the inspiration.
